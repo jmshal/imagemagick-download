@@ -1,0 +1,23 @@
+{
+  "name": "@jmshal/imagemagick-download",
+  "version": "0.0.0",
+  "main": "index.js",
+  "bin": "cli.js",
+  "author": {
+    "email": "git@jacobmarshall.co",
+    "name": "Jacob Marshall",
+    "url": "https://j.msh.al"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmshal/imagemagick-download.git"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "unzip": "^0.1.11"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT"
+}
